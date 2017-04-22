@@ -4,7 +4,7 @@ The R package cats. This package is to show how a R package look like. You can r
 # Installation
 ```java
 library(devtools)
-install_github("cats","lweicdsor")
+install_github("lweicdsor/A-bare-minimum-R-package-CATS")
 ```
 # Usage
 library(cats)
