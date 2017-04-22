@@ -1,7 +1,8 @@
 Package: cats
 Title: A cats feeding reminder for R
 Version: 0.0.1
-Authors@R: person("First", "Last", email = "lweicdsor@gmail.com", role = c("aut", "cre"))
+Author: Lan Wei
+Maintainer: Lan Wei <lweicdsor@gmail.com>
 Description: This bare-minimum R package is to show how a R package should look like.
 Depends: R (>= 3.3.3)
 License: GPL-3
