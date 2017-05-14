@@ -1,10 +1,10 @@
 Package: cats
-Title: A cats feeding reminder for R
+Title: A Cats Feeding Reminder for R
 Version: 0.0.1
 Author: Lan Wei
 Maintainer: Lan Wei <lweicdsor@gmail.com>
 Description: This bare-minimum R package is to show how a R package should look like.
-Depends: R (>= 3.3.3)
+Depends: R (>= 3.2.3)
 License: GPL-3
 URL: https://github.com/lweicdsor/A-bare-minimum-R-package-CATS
 Encoding: UTF-8
